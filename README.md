@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me use the email 20179124@cty-greece.gr or call me at 99477486
+- 📫 How to reach me use the email elioudakis123@gmail.com or call me at 99477486
 
 <!---
 Evangelospro/Evangelospro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
