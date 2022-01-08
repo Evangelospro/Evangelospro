@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evangelospro
 - 👀 I’m interested in programming and robotics
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PWN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me use the email elioudakis123@gmail.com or call me at 99477486
 
