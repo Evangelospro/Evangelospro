@@ -15,13 +15,20 @@ I'm an Ethical Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=
 ## Top Languages and tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=00000000&hide_title=true&hide_border=true&text_color=08F)]()  
 
+<br />
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<br />
+
 
 
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Dotfiles:  
 [![ZSHRC](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=zshrc&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/zshrc)  
@@ -42,7 +49,7 @@ I'm an Ethical Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Contact me:
-Email: elioudakis123@gmail.com
+Email: [elioudakis123@gmail.com]mailto:elioudakis123@gmail.com
 Discord: [Profile](https://discord.com/users/690550530316959744)
 
 [tryhackme]: https://tryhackme.com/p/Evangelospro
