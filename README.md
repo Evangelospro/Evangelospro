@@ -14,11 +14,11 @@
 ## I also do [First Tech Challenge](https://www.firstinspires.org/robotics/ftc) (in a team)
 [![FTC Repo](https://github-readme-stats.vercel.app/api/pin/?username=evangelospro&repo=FTC22_CODE&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/evangelospro/FTC22_CODE)
 
-## Contact me:
-Email: elioudakis123@gmail.com
-Discord: [Profile](https://discord.com/users/740167253491843094)
-
 ## My Website(Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.codes)
 
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
+
+## Contact me:
+Email: elioudakis123@gmail.com
+Discord: [Profile](https://discord.com/users/690550530316959744)
