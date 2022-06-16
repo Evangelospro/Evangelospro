@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Evangelos Lioudakis <img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 
 
-<h2 align="center"> I'm an Ethical Hacker, CTF[![https://ctfd.io/whats-a-ctf/](What is a ctf?)] Player. </h2>
+<h2 align="center"> I'm an Ethical Hacker, CTF[![What is a ctf?](https://ctfd.io/whats-a-ctf/)] Player. </h2>
 
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
@@ -18,7 +18,5 @@
 Email: elioudakis123@gmail.com
 Discord: [Profile](https://discord.com/users/740167253491843094)
 
-## Websites I made:
+## My Website(Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.codes)
-
-## In my free time I play some ctfs
