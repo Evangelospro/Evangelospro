@@ -1,7 +1,6 @@
-<h1 align="center"> Hi there, I'm Evangelos Lioudakis <img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
+<h1 align="center"> Hi there, I'm Evangelos Lioudakis 
+I'm an Ethical Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 
-
-<h2 align="center"> I'm an Ethical Hacker, CTF Player.</h2>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
