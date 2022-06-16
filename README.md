@@ -2,7 +2,6 @@
 
 
 <h2 align="center"> I'm an Ethical Hacker, CTF Player.</h2>
-[What is a ctf?](https://ctfd.io/whats-a-ctf/)
 
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
@@ -21,3 +20,6 @@ Discord: [Profile](https://discord.com/users/740167253491843094)
 
 ## My Website(Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.codes)
+
+## ctf
+[What is a ctf?](https://ctfd.io/whats-a-ctf/)
