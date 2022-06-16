@@ -49,7 +49,7 @@ I'm an Ethical Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Contact me:
-Email: [elioudakis123@gmail.com]mailto:elioudakis123@gmail.com
+Email: [elioudakis123@gmail.com](mailto:elioudakis123@gmail.com)
 Discord: [Profile](https://discord.com/users/690550530316959744)
 
 [tryhackme]: https://tryhackme.com/p/Evangelospro
