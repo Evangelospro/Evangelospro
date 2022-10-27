@@ -42,7 +42,7 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## My Website (Blogging and ctf writeups):
-[EWEBSITE](https://evangelospro.codes)
+[EWEBSITE](https://evangelospro.com)
 
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
 
