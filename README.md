@@ -37,7 +37,8 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## I also do [First Tech Challenge](https://www.firstinspires.org/robotics/ftc) (in a team)
-[![FTC Repo](https://github-readme-stats.vercel.app/api/pin/?username=evangelospro&repo=FTC22_CODE&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/evangelospro/FTC22_CODE)
+[![FTC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=evangelospro&repo=FTC22_CODE&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/evangelospro/FTC22_CODE)
+[![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=z3db0y&repo=FGC22&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/z3db0y/FGC22)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
