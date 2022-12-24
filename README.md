@@ -14,7 +14,7 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 <br>
 
 ## Find me at:
-### Hacking platforms each with a respective icon
+### Hacking platforms:
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/tryhackme.svg" alt="TryHackMe" />](https://tryhackme.com/p/Evangelospro) &nbsp;
 
 ## Dotfiles:
