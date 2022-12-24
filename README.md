@@ -5,14 +5,14 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/evangelospro/evangelospro/blob/output/github-contribution-grid-snake.svg)
 
-## Top Languages and tools
+### Top Languages and tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=00000000&hide_title=true&hide_border=true&text_color=08F)]()  
 
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/python.svg" alt="Python" />](# "Python")&nbsp;
-
 <br>
+
 ## Find me at:
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/main/assets/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme]: https://tryhackme.com/p/Evangelospro &nbsp;
 <br>
