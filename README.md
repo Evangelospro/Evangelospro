@@ -14,8 +14,7 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 <br>
 
 ## Find me at:
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/main/assets/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme]: https://tryhackme.com/p/Evangelospro &nbsp;
-<br>
+[![<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/main/assets/icons/tryhackme.svg" alt="TryHackMe" />](https://tryhackme.com/p/Evangelospro) &nbsp;
 
 ## Dotfiles:
 [![Linux_Setup](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=linux-setup&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/linux-setup)  
