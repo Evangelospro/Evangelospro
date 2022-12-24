@@ -40,7 +40,7 @@
 ## My Website (Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.com)
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
-### Blog posts
+### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
