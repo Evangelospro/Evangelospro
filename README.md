@@ -1,11 +1,9 @@
 <h1 align="center"> Hi there, I'm Evangelos Lioudakis 
 I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 
-
-
-
+## Stas:
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
-
+![Snake animation](https://github.com/evangelospro/evangelospro/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Find me at:
@@ -48,7 +46,6 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 [EWEBSITE](https://evangelospro.com)
 
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
-
 
 
 ## Contact me:
