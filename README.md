@@ -9,8 +9,7 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 
 
 ## Find me at:
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/main/assets/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme] &nbsp;
-[tryhackme]: https://tryhackme.com/p/Evangelospro
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/main/assets/icons/tryhackme.svg" alt="TryHackMe" />][tryhackme]: https://tryhackme.com/p/Evangelospro &nbsp;
 
 ## Top Languages and tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=00000000&hide_title=true&hide_border=true&text_color=08F)]()  
