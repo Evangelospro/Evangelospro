@@ -1,12 +1,16 @@
-<h1 align="center"> Hi there, I'm Evangelos Lioudakis 
-I'm a Hacker, CTF Player.
-<br>
-<img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+    <h1 align="center">I'm Evangelos Lioudakis I'm a Hacker, CTF Player.</h1>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
+</div>
 
-## Stats:
+
+## :fire: Stats:
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
-### Top Languages and tools
+### :hammer_and_wrench: Languages and tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=00000000&hide_title=true&hide_border=true&text_color=08F)]()  
 
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
@@ -36,6 +40,11 @@ I'm a Hacker, CTF Player.
 ## My Website (Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.com)
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+<br>
 
 ## Contact me:
 Email: [elioudakis123@gmail.com](mailto:elioudakis123@gmail.com)
