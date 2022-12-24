@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm Evangelos Lioudakis 
-I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
+I'm a Hacker, CTF Player.
+<br>
+<img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 
 ## Stats:
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
@@ -30,9 +32,6 @@ I'm a Hacker, CTF Player.<img src="https://komarev.com/ghpvc/?username=Evangelos
 ## [FGC First Global Challenge](https://first.global/fgc/) (Team Cyprus)
 [![FGC21-Cubesat](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=FGC21-Cubesat&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/FGC21-Cubesat)
 [![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=z3db0y&repo=FGC22&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/z3db0y/FGC22)
-
-
-
 
 ## My Website (Blogging and ctf writeups):
 [EWEBSITE](https://evangelospro.com)
