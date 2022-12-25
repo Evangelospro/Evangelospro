@@ -42,7 +42,7 @@
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-
+- [Ccsc 2022](https://evangelospro.com/posts/ccsc-2022)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
