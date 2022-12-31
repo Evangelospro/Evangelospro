@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 </div>
 
-
+ZSH
 ## :fire: Stats:
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
@@ -25,7 +25,7 @@
 
 ## Dotfiles:
 [![Linux_Setup](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=linux-setup&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/linux-setup)  
-[![ZSHRC](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=zshrc&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/zshrc)  
+[![ZSHRC](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=.zsh&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/.zsh)  
 [![Kitty](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=kitty&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/kitty)
 [![Wezterm](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=wezterm&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/wezterm)
 
