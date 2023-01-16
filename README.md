@@ -46,5 +46,5 @@
 <br>
 
 ## Contact me:
-Email: [elioudakis123@gmail.com](mailto:elioudakis123@gmail.com)
+Email: [evangelospro@evangelospro.com](mailto:elioudakis123@gmail.com)
 Discord: [Profile](https://discord.com/users/690550530316959744)
