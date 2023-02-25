@@ -23,6 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/tryhackme.svg" alt="TryHackMe" />](https://tryhackme.com/p/Evangelospro) &nbsp;
 
 ## Dotfiles:
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=dotfiles&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/dotfiles)  
 [![Linux_Setup](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=linux-setup&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/linux-setup)  
 [![ZSHRC](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=.zsh&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/.zsh)  
 [![Kitty](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=kitty&bg_color=00000000&hide_title=true&border_color=00000000&text_color=08F)](https://github.com/Evangelospro/kitty)
