@@ -42,10 +42,11 @@
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [FGC 2021](https://evangelospro.com/posts/fgc-2021)
 - [CCSC 2022](https://evangelospro.com/posts/ccsc-2022)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
 ## Contact me:
-Email: [evangelospro@evangelospro.com](mailto:evangelospro@evangelospro.com)
+Email: [me@evangelospro.com](mailto:me@evangelospro.com)
 Discord: [Profile](https://discord.com/users/690550530316959744)
