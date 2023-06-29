@@ -31,6 +31,13 @@
 [EWEBSITE](https://evangelospro.com)
 [What is a ctf?](https://ctfd.io/whats-a-ctf/)
 
+### Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [HTB - Soccer](https://evangelospro.com/posts/soccer)
+- [CCSC 2022](https://evangelospro.com/posts/ccsc-2022)
+<!-- BLOG-POST-LIST:END -->
+<br>
+
 ## :fire: Stats:
 ![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
@@ -49,13 +56,6 @@
     <img src="https://wakatime.com/share/@f4f2fc6b-b846-4f32-9ee7-24e03c45f603/bae67214-4c48-4f75-8139-5c23e0078e1c.svg" width="49%"/>
   </p>
 </details>
-
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [HTB - Soccer](https://evangelospro.com/posts/soccer)
-- [CCSC 2022](https://evangelospro.com/posts/ccsc-2022)
-<!-- BLOG-POST-LIST:END -->
-<br>
 
 ## Contact me:
 Email: [me@evangelospro.com](mailto:me@evangelospro.com)
