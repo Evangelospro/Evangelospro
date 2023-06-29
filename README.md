@@ -52,7 +52,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [FGC 2021](https://evangelospro.com/posts/fgc-2021)
+- [HTB - Soccer](https://evangelospro.com/posts/soccer)
 - [CCSC 2022](https://evangelospro.com/posts/ccsc-2022)
 <!-- BLOG-POST-LIST:END -->
 <br>
