@@ -33,6 +33,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [CCSC 2023 Forgotten Classes](https://evangelospro.com/posts/ccsc-2023-forgotten-classes)
 - [HTB - Soccer](https://evangelospro.com/posts/soccer)
 - [CCSC 2022](https://evangelospro.com/posts/ccsc-2022)
 <!-- BLOG-POST-LIST:END -->
