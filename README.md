@@ -33,10 +33,10 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [CCSC-2023-Secret-Prompt](https://evangelospro.com/posts/CCSC-2023-Secret-Prompt)
-- [CCSC-2023-Shellhunting](https://evangelospro.com/posts/CCSC-2023-Shellhunting)
-- [CCSC-2023-Forgotten-Classes](https://evangelospro.com/posts/CCSC-2023-Forgotten-Classes)
-- [CCSC-2022](https://evangelospro.com/posts/CCSC-2022)
+- [CCSC 2023 Secret Prompt](https://evangelospro.com/posts/CCSC-2023-Secret-Prompt)
+- [CCSC 2023 Shellhunting](https://evangelospro.com/posts/CCSC-2023-Shellhunting)
+- [CCSC 2023 Forgotten Classes](https://evangelospro.com/posts/CCSC-2023-Forgotten-Classes)
+- [CCSC 2022](https://evangelospro.com/posts/CCSC-2022)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
