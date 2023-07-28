@@ -7,10 +7,6 @@
 
 ![Snake animation](https://github.com/evangelospro/evangelospro/blob/output/github-contribution-grid-snake.svg)
 
-## Find me at:
-### Hacking platforms:
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/tryhackme.svg" alt="TryHackMe" />](https://tryhackme.com/p/Evangelospro) &nbsp;
-
 ## Dotfiles:
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=dotfiles&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/Evangelospro/dotfiles)  
 
