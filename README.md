@@ -29,8 +29,8 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [CCSC 2023 Secret Prompt](http://evangelospro.com/posts/CCSC-2023-Secret-Prompt)
 - [CCSC 2023 Shellhunting](http://evangelospro.com/posts/CCSC-2023-Shellhunting)
+- [CCSC 2023 Secret Prompt](http://evangelospro.com/posts/CCSC-2023-Secret-Prompt)
 - [CCSC 2023 Forgotten Classes](http://evangelospro.com/posts/CCSC-2023-Forgotten-Classes)
 - [CCSC 2022](http://evangelospro.com/posts/CCSC-2022)
 <!-- BLOG-POST-LIST:END -->
