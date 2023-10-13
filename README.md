@@ -1,3 +1,5 @@
+# VISIT https://evangelospro.com/github FOR A BETTER EXPERIENCE
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h1 align="center">Hi there I am Evangelos Lioudakis(AKA Evangelospro) 👋</h1>
@@ -8,7 +10,7 @@
 ![Snake animation](https://github.com/evangelospro/evangelospro/blob/output/github-contribution-grid-snake.svg)
 
 ## Dotfiles:
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=dotfiles&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/Evangelospro/dotfiles)  
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=dotfiles&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/Evangelospro/dotfiles)
 
 ## Robotics:
 
@@ -17,7 +19,7 @@
 [![FTC21 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FTC21&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FTC21)
 [![FTC20 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FTC20&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FTC20)
 
-### [FGC First Global Challenge](https://first.global/fgc/) (Team Cyprus)
+### [FGC First Global Challenge](https://first.global/fgc/) ([Team Cyprus]())
 [![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC22&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC22)
 [![FGC21](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC21&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC21)
 [![FGC21-Cubesat](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC21-Cubesat&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC21-Cubesat)
