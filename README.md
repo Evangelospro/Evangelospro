@@ -39,10 +39,10 @@
 <br>
 
 ## :fire: Stats:
-[![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)]
+![Evangeslo's Lioudakis stats](https://github-readme-stats.vercel.app/api?username=Evangelospro&show_icons=true&theme=radical)
 
 ### :hammer_and_wrench: Languages and tools
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=282a36&hide_title=true&hide_border=true&text_color=bd93f9)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=282a36&hide_title=true&hide_border=true&text_color=bd93f9)
 
 <br>
 
