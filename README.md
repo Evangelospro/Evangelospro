@@ -44,15 +44,8 @@
 ### :hammer_and_wrench: Languages and tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=282a36&hide_title=true&hide_border=true&text_color=bd93f9)
 
+[![Evangelo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Evangelospro)
 <br>
-
-<details>
-  <summary>Editor & Operating System stats</summary>
-  <p>
-    <img src="https://wakatime.com/share/@f4f2fc6b-b846-4f32-9ee7-24e03c45f603/cbd7d970-c0d4-44af-881b-8db1f559f70a.svg" width="49%"/>
-    <img src="https://wakatime.com/share/@f4f2fc6b-b846-4f32-9ee7-24e03c45f603/bae67214-4c48-4f75-8139-5c23e0078e1c.svg" width="49%"/>
-  </p>
-</details>
 
 ## Contact me:
 Email: [me@evangelospro.com](mailto:me@evangelospro.com)
