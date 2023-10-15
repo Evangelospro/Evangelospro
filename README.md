@@ -44,9 +44,6 @@
 ### :hammer_and_wrench: Languages and tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelospro&bg_color=282a36&hide_title=true&hide_border=true&text_color=bd93f9)]()
 
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Evangelospro/Evangelospro/master/assets/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 <br>
 
 <details>
