@@ -7,7 +7,11 @@
     <img src="https://komarev.com/ghpvc/?username=Evangelospro&color=008080&style=flat&label=Views" alt="Evangelospro" /> </h1>
 </div>
 
-![Snake animation](https://github.com/evangelospro/evangelospro/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evangelospro/evangelospro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evangelospro/evangelospro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evangelospro/evangelospro/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Dotfiles:
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=Evangelospro&repo=dotfiles&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/Evangelospro/dotfiles)
