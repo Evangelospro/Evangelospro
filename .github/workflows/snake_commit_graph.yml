@@ -1,7 +1,7 @@
 name: Github commits snake graph generator
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 23 hours
+    - cron: "* */23 * * *"
   workflow_dispatch:
 jobs:
   generate:
