@@ -53,5 +53,5 @@
 <br>
 
 ## Contact me:
-Email: [me@evangelospro.com](mailto:me@evangelospro.com)
+Email: [evangelos@evangelospro.com](mailto:evangelos@evangelospro.com)
 Discord: [Profile](https://discord.com/users/690550530316959744)
