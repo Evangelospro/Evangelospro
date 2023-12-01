@@ -35,6 +35,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox - Machines Soccer](https://evangelospro.com//posts/HackTheBox---Machines-Soccer)
 - [CCSC 2023 Shellhunting](https://evangelospro.com//posts/CCSC-2023-Shellhunting)
 - [CCSC 2023 Secret Prompt](https://evangelospro.com//posts/CCSC-2023-Secret-Prompt)
 - [CCSC 2023 Forgotten Classes](https://evangelospro.com//posts/CCSC-2023-Forgotten-Classes)
