@@ -39,6 +39,7 @@
 - [CCSC 2023 Shellhunting](https://evangelospro.com//posts/ccsc-2023-shellhunting)
 - [CCSC 2023 Secret Prompt](https://evangelospro.com//posts/ccsc-2023-secret-prompt)
 - [CCSC 2023 Forgotten Classes](https://evangelospro.com//posts/ccsc-2023-forgotten-classes)
+- [HackTheBox - Challenges Breaking Grad](https://evangelospro.com//posts/hackthebox---challenges-breaking-grad)
 - [CCSC 2022](https://evangelospro.com//posts/ccsc-2022)
 <!-- BLOG-POST-LIST:END -->
 <br>
