@@ -18,15 +18,17 @@
 
 ## Robotics:
 
-### [FTC First Tech Challenge](https://www.firstinspires.org/robotics/ftc)[Epiteugma Revved Up 13906](https://github.com/epiteugmaRevvedUp)
-[![FTC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FTC22&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FTC22)
-[![FTC21 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FTC21&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FTC21)
-[![FTC20 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FTC20&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FTC20)
+### [FTC First Tech Challenge](https://www.firstinspires.org/robotics/ftc)[Epiteugma Revved Up 13906](https://github.com/epiteugma)
+[![FTC23 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2023&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2023)
+[![FTC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2022&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2022)
+[![FTC21 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2021&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2021)
+[![FTC20 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2020&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2020)
 
 ### [FGC First Global Challenge](https://first.global/fgc/) ([Team Cyprus]())
-[![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC22&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC22)
-[![FGC21](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC21&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC21)
-[![FGC21-Cubesat](https://github-readme-stats.vercel.app/api/pin/?username=epiteugmaRevvedUp&repo=FGC21-Cubesat&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugmaRevvedUp/FGC21-Cubesat)
+[![FGC23](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FIRST_GLOBAL_2023&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FIRST_GLOBAL_2023)
+[![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FGC22&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FGC22)
+[![FGC21](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FIRST_GLOBAL_2021&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FIRST_GLOBAL_2021)
+[![FGC21-Cubesat](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FIRST_GLOBAL_2021_Cubesat&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FIRST_GLOBAL_2021_Cubesat)
 
 
 ## My Website (Blogging and ctf writeups):
