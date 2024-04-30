@@ -18,13 +18,13 @@
 
 ## Robotics:
 
-### [FTC First Tech Challenge](https://www.firstinspires.org/robotics/ftc)[Epiteugma Revved Up 13906](https://github.com/epiteugma)
+### [FTC First Tech Challenge](https://www.firstinspires.org/robotics/ftc) - [Epiteugma Revved Up 13906](https://github.com/orgs/Epiteugma/teams/13906/repositories)
 [![FTC23 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2023&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2023)
 [![FTC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2022&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2022)
 [![FTC21 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2021&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2021)
 [![FTC20 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=13906_FTC2020&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/13906_FTC2020)
 
-### [FGC First Global Challenge](https://first.global/fgc/) ([Team Cyprus]())
+### [FGC First Global Challenge](https://first.global/fgc/) - [Team Cyprus](https://github.com/orgs/Epiteugma/teams/first-global/repositories)
 [![FGC23](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FIRST_GLOBAL_2023&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FIRST_GLOBAL_2023)
 [![FGC22 Repo](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FGC22&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FGC22)
 [![FGC21](https://github-readme-stats.vercel.app/api/pin/?username=epiteugma&repo=FIRST_GLOBAL_2021&bg_color=282a36&hide_title=true&border_color=bd93f9&text_color=bd93f9)](https://github.com/epiteugma/FIRST_GLOBAL_2021)
