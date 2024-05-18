@@ -39,6 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Wizer CTF 2024 All Challenges](https://evangelospro.com//posts/wizer-ctf-2024-all-challenges/)
 - [HackTheBox - Challenges Saturn](https://evangelospro.com//posts/hackthebox---challenges-saturn/)
+- [HackTheBox - Challenges Breaking Grad](https://evangelospro.com//posts/hackthebox---challenges-breaking-grad/)
 - [HackTheBox - Machines Soccer](https://evangelospro.com//posts/hackthebox---machines-soccer/)
 - [CCSC 2023 Shellhunting](https://evangelospro.com//posts/ccsc-2023-shellhunting/)
 - [CCSC 2023 Secret Prompt](https://evangelospro.com//posts/ccsc-2023-secret-prompt/)
