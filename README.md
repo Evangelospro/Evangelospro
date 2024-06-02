@@ -37,7 +37,9 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [My Android Pentesting Setup](https://evangelospro.com//posts/my-android-pentesting-setup/)
 - [Wizer CTF 2024 All Challenges](https://evangelospro.com//posts/wizer-ctf-2024-all-challenges/)
+- [HackTheBox - Challenges WS-Todo](https://evangelospro.com//posts/hackthebox---challenges-ws-todo/)
 - [HackTheBox - Challenges Saturn](https://evangelospro.com//posts/hackthebox---challenges-saturn/)
 - [HackTheBox - Challenges Breaking Grad](https://evangelospro.com//posts/hackthebox---challenges-breaking-grad/)
 - [HackTheBox - Machines Soccer](https://evangelospro.com//posts/hackthebox---machines-soccer/)
