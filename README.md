@@ -37,6 +37,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [N00bz CTF 2024 writeups](https://evangelospro.com//posts/n00bz-ctf-2024-writeups/)
 - [My Android Pentesting Setup](https://evangelospro.com//posts/my-android-pentesting-setup/)
 - [Wizer CTF 2024 All Challenges](https://evangelospro.com//posts/wizer-ctf-2024-all-challenges/)
 - [HackTheBox - Challenges WS-Todo](https://evangelospro.com//posts/hackthebox---challenges-ws-todo/)
