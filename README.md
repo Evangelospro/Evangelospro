@@ -37,6 +37,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [CCSC 2025 Cheesy Web](https://evangelospro.com//posts/ccsc-2025-cheesy-web/)
 - [HackTheBox - CyberApocalypse 2025 Aurors Archive](https://evangelospro.com//posts/hackthebox---cyberapocalypse-2025-aurors-archive/)
 - [N00bz CTF 2024 writeups](https://evangelospro.com//posts/n00bz-ctf-2024-writeups/)
 - [My Android Pentesting Setup](https://evangelospro.com//posts/my-android-pentesting-setup/)
